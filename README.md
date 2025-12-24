@@ -5,8 +5,8 @@
 ---
 
 ## 👋 Profile Overview
-🎓 **Aspiring AI/ML Engineer & Software Engineer**  
-🎯 Preparing for a **Master’s in AI/ML (2026)**  
+🎓 **Aspiring Software Engineer**  
+🎯 Preparing for a **Master’s in AI/ML**  
 💡 Focused on **scalable systems, applied machine learning, and data-driven products**
 
 I build **end-to-end, production-style systems** that combine:
