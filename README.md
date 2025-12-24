@@ -151,7 +151,7 @@ My goal is to work on **high-impact systems at scale**.
 
 ## 🌐 Connect
 🔗 **GitHub:** https://github.com/puja695  
-🔗 **LinkedIn:** 
+🔗 **LinkedIn:** https://www.linkedin.com/in/puja-soni-0ba00631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
