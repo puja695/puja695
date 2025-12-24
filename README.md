@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2600&pause=700&color=4285F4&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Puja+Soni+%F0%9F%91%8B;AI%2FML+Engineer+in+Progress+%F0%9F%A7%A0;Software+Engineer+%7C+Systems+Thinker;Google+%7C+Amazon+%7C+Microsoft+Ready" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2600&pause=700&color=4285F4&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Puja+Soni+%F0%9F%91%8B;AI%2FML+Engineer+in+Progress+%F0%9F%A7%A0;Software+Engineer+%7C+Systems+Thinker" />
 </p>
 
 ---
@@ -17,6 +17,22 @@ I build **end-to-end, production-style systems** that combine:
 My goal is to work on **high-impact systems at scale**.
 
 ---
+
+## 📊 GitHub Contributions & Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=puja695&color=7F3CFF&style=flat-square)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=puja695&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=puja695&theme=onedark&no-frame=true&row=1" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puja695&theme=tokyo-night" />
+</p>
+
+---
+
 
 ## 🎯 Target Roles (Big Tech)
 - **Software Engineer (SWE)**
@@ -131,21 +147,6 @@ My goal is to work on **high-impact systems at scale**.
 - Strong **software engineering fundamentals**
 - Interest in **platforms, APIs & applied AI**
 - Focus on **maintainable, extensible systems**
-
----
-
-## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puja695&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puja695&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🐍 Contribution Consistency
-<p align="center">
-  <img src="https://raw.githubusercontent.com/puja695/puja695/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
