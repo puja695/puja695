@@ -5,14 +5,15 @@
 ---
 
 ## 👋 Profile Overview
-🎓 **Aspiring Software Engineer**  
+
+🎓 **Aspiring Software Engineer & AI/ML Engineer**  
 🎯 Preparing for a **Master’s in AI/ML**  
 💡 Focused on **scalable systems, applied machine learning, and data-driven products**
 
 I build **end-to-end, production-style systems** that combine:
-- strong **CS fundamentals**
-- clean **backend & API design**
-- **applied ML** integrated into real applications  
+- Strong **CS fundamentals**
+- Clean **backend & API design**
+- **Applied ML** integrated into real-world applications  
 
 My goal is to work on **high-impact systems at scale**.
 
@@ -23,18 +24,18 @@ My goal is to work on **high-impact systems at scale**.
 ![Profile Views](https://komarev.com/ghpvc/?username=puja695&color=7F3CFF&style=flat-square)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=puja695&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=puja695&theme=onedark&no-frame=true&row=1" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=puja695&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=puja695&theme=onedark&no-frame=true&no-bg=true&margin-w=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puja695&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/api?username=puja695&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-
 ## 🎯 Target Roles (Big Tech)
+
 - **Software Engineer (SWE)**
 - **Machine Learning Engineer (MLE)**
 - **AI / Applied Scientist Intern**
@@ -43,6 +44,7 @@ My goal is to work on **high-impact systems at scale**.
 ---
 
 ## 🧠 Core Engineering Strengths
+
 - Strong foundation in **DSA, OOP, OS, DBMS, CN**
 - Experience designing **REST APIs & backend services**
 - Translating **ML models → production workflows**
@@ -114,59 +116,46 @@ My goal is to work on **high-impact systems at scale**.
 ---
 
 ## 🧠 DSA • LeetCode • Interview Prep
+
 📌 Actively preparing for **Google / Amazon / Microsoft interviews**
 
-- Core focus areas:
-  - Arrays, Strings, Hashing
-  - Recursion & Backtracking
-  - Trees, Graphs, Heaps
-  - Dynamic Programming
-  - Greedy Algorithms
-- Practicing **problem-solving in Python & Java**
-- Emphasis on:
-  - Clean solutions
-  - Time & space complexity
-  - Edge-case handling
-- Strengthening **system design fundamentals** (APIs, scalability, data flow)
+- Arrays, Strings, Hashing  
+- Recursion & Backtracking  
+- Trees, Graphs, Heaps  
+- Dynamic Programming  
+- Greedy Algorithms  
+
+✔ Clean solutions  
+✔ Time & space complexity  
+✔ Edge-case handling  
+✔ System design fundamentals
 
 ---
 
 ## 🎯 Big Tech Alignment
 
 ### 🔵 Google
-- Strength in **problem-solving & algorithms**
-- Interest in **ML systems, data-driven products & research**
-- Focus on **clean abstractions and scalable design**
+- Strong in **problem-solving & algorithms**
+- Interest in **ML systems & research**
+- Focus on **clean abstractions and scalability**
 
 ### 🟠 Amazon
 - Ownership of **end-to-end projects**
-- Bias for **execution, scalability & reliability**
-- Experience building **practical, customer-focused systems**
+- Bias for **execution & reliability**
+- Customer-focused engineering mindset
 
 ### 🟢 Microsoft
 - Strong **software engineering fundamentals**
 - Interest in **platforms, APIs & applied AI**
-- Focus on **maintainable, extensible systems**
+- Focus on **maintainable systems**
 
 ---
 
 ## 🌐 Connect
+
 🔗 **GitHub:** https://github.com/puja695  
-🔗 **LinkedIn:** https://www.linkedin.com/in/puja-soni-0ba00631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔗 **LinkedIn:** https://www.linkedin.com/in/puja-soni-0ba00631b
 
+---
 
-
-<!--
-**puja695/puja695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ _Building systems. Shipping ideas. Preparing for scale._
