@@ -1,4 +1,4 @@
-here it shows error fetching graphs, fix it for my github profile: <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2600&pause=700&color=4285F4&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Puja+Soni+%F0%9F%91%8B;AI%2FML+Engineer+in+Progress+%F0%9F%A7%A0;Software+Engineer+%7C+Systems+Thinker" />
 </p>
 
