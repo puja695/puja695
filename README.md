@@ -1,109 +1,153 @@
-<p align="center">
+here it shows error fetching graphs, fix it for my github profile: <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2600&pause=700&color=4285F4&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Puja+Soni+%F0%9F%91%8B;AI%2FML+Engineer+in+Progress+%F0%9F%A7%A0;Software+Engineer+%7C+Systems+Thinker" />
 </p>
 
 ---
 
 ## 👋 Profile Overview
-
-🎓 **Aspiring Software Engineer & AI/ML Engineer**  
+🎓 **Aspiring Software Engineer**  
 🎯 Preparing for a **Master’s in AI/ML**  
 💡 Focused on **scalable systems, applied machine learning, and data-driven products**
 
-I build **end-to-end, production-style systems** with strong fundamentals and real-world impact.
+I build **end-to-end, production-style systems** that combine:
+- strong **CS fundamentals**
+- clean **backend & API design**
+- **applied ML** integrated into real applications  
+
+My goal is to work on **high-impact systems at scale**.
 
 ---
 
-## 📊 GitHub Stats (Stable & Visible)
+## 📊 GitHub Contributions & Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=puja695&color=7F3CFF&style=flat-square)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puja695&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puja695&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=puja695&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puja695&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🎯 Target Roles
 
-- Software Engineer (SWE)
-- Machine Learning Engineer (MLE)
-- AI / Applied Scientist Intern
-- Backend / Platform Engineer
+## 🎯 Target Roles (Big Tech)
+- **Software Engineer (SWE)**
+- **Machine Learning Engineer (MLE)**
+- **AI / Applied Scientist Intern**
+- **Backend / Platform Engineer**
 
 ---
 
-## 🧠 Core Strengths
-
-- Strong **DSA, OOP, OS, DBMS, CN**
-- Backend & **REST API design**
-- ML models → **production systems**
-- End-to-end ownership
-- Performance & scalability mindset
+## 🧠 Core Engineering Strengths
+- Strong foundation in **DSA, OOP, OS, DBMS, CN**
+- Experience designing **REST APIs & backend services**
+- Translating **ML models → production workflows**
+- Comfortable owning projects **end-to-end**
+- Focus on **performance, scalability & maintainability**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages
-Python • Java • JavaScript • C • R  
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
+![R](https://img.shields.io/badge/R-111?style=for-the-badge&logo=r)
 
-### 🌐 Backend / Web
-FastAPI • Flask • React • Firebase • MySQL  
+### 🌐 Backend & Web Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
 
-### 🤖 ML / AI
-Scikit-learn • TensorFlow • PyTorch • OpenCV • MediaPipe  
+### 🤖 Machine Learning & AI
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-111?style=for-the-badge&logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-111?style=for-the-badge&logo=google)
 
-### 🧰 Tools
-Git • GitHub • Linux • VS Code • Postman  
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-111?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-111?style=for-the-badge&logo=postman)
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Projects (Impact & Scale)
 
-### 🔹 JobSeeker — AI Job Intelligence Platform
-- ML-based skill gap analysis  
-- Scalable backend APIs  
-**Tech:** Python, FastAPI, React, ML  
+### 🔹 JobSeeker — AI-Powered Job Intelligence Platform
+- Designed backend APIs for job tracking & analytics  
+- Implemented **ML-based skill gap analysis**
+- Built modular architecture for future scalability  
+**Tech:** Python, FastAPI, React, Machine Learning
 
-### 🔹 Hand Gesture Controlled YouTube App
-- Real-time CV pipeline  
-- Low-latency gesture control  
-**Tech:** OpenCV, MediaPipe  
+### 🔹 Hand Gesture Controlled YouTube Application
+- Real-time computer vision pipeline
+- Optimized gesture recognition for low-latency interaction  
+**Tech:** OpenCV, MediaPipe, Python
 
 ### 🔹 GLOF Monitoring System
-- Flood risk prediction  
-- External climate APIs  
-**Tech:** ML, FastAPI  
+- ML-based risk prediction for glacier lake outburst floods
+- Integrated external datasets & predictive models  
+**Tech:** Scikit-learn, FastAPI, NASA POWER API
 
-### 🔹 DroughtGuard
-- AI drought early warning  
-**Tech:** ML, Data Analytics  
+### 🔹 DroughtGuard — AI Early Warning System
+- Predictive drought monitoring using historical + live data
+- Designed for decision support and alerts  
+**Tech:** ML, APIs, Data Analytics
 
 ### 🔹 Silent Whispers
-- Anonymous messaging system  
-**Tech:** React, Firebase  
+- Secure anonymous messaging platform
+- Implemented authentication & admin-only access  
+**Tech:** React, Firebase
 
 ---
 
-## 🧠 DSA • Interview Prep
+## 🧠 DSA • LeetCode • Interview Prep
+📌 Actively preparing for **Google / Amazon / Microsoft interviews**
 
-Preparing for **Google / Amazon / Microsoft**
+- Core focus areas:
+  - Arrays, Strings, Hashing
+  - Recursion & Backtracking
+  - Trees, Graphs, Heaps
+  - Dynamic Programming
+  - Greedy Algorithms
+- Practicing **problem-solving in Python & Java**
+- Emphasis on:
+  - Clean solutions
+  - Time & space complexity
+  - Edge-case handling
+- Strengthening **system design fundamentals** (APIs, scalability, data flow)
 
-- Arrays, Trees, Graphs, DP
-- Clean code + complexity focus
-- System design fundamentals
+---
+
+## 🎯 Big Tech Alignment
+
+### 🔵 Google
+- Strength in **problem-solving & algorithms**
+- Interest in **ML systems, data-driven products & research**
+- Focus on **clean abstractions and scalable design**
+
+### 🟠 Amazon
+- Ownership of **end-to-end projects**
+- Bias for **execution, scalability & reliability**
+- Experience building **practical, customer-focused systems**
+
+### 🟢 Microsoft
+- Strong **software engineering fundamentals**
+- Interest in **platforms, APIs & applied AI**
+- Focus on **maintainable, extensible systems**
 
 ---
 
 ## 🌐 Connect
+🔗 **GitHub:** https://github.com/puja695  
+🔗 **LinkedIn:** https://www.linkedin.com/in/puja-soni-0ba00631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-🔗 GitHub: https://github.com/puja695  
-🔗 LinkedIn: https://www.linkedin.com/in/puja-soni-0ba00631b
 
----
 
-⭐ _Building systems. Learning deeply. Preparing for scale._
